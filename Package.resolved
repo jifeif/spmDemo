@@ -1,0 +1,15 @@
+{
+  "originHash" : "24fa61886e72eab775166be519e0c59d4f7a22b4b12de58a5ddff93e0da4376e",
+  "pins" : [
+    {
+      "identity" : "hptcomponentlib",
+      "kind" : "remoteSourceControl",
+      "location" : "http://git.igancao.com/frontend-app/cmponentlibrary/ios/hptcomponentlib.git",
+      "state" : {
+        "branch" : "0.0.6",
+        "revision" : "b192ab630c937a642626dca35b7fc30b75e8cc33"
+      }
+    }
+  ],
+  "version" : 3
+}
