@@ -2,13 +2,13 @@
 // https://docs.swift.org/swift-book
 
 import Foundation
-import HPTComponentLib
+//import HPTComponentLib
 @objcMembers
 public class Student:NSObject {
     public func school() {
         print("学校是清华")
         
-        print("color is \(HPTColor.mainText)")
+//        print("color is \(HPTColor.mainText)")
     }
     
     public func food() {
