@@ -12,7 +12,7 @@ let package = Package(
             targets: ["spmDemo"]),
     ],
     dependencies: [
-        .package(url: "http://git.igancao.com/frontend-app/cmponentlibrary/ios/hptcomponentlib.git", revision: "0.0.6")
+        .package(url: "git@git.igancao.com:frontend-app/cmponentlibrary/ios/hptcomponentlib.git", branch: "main")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
